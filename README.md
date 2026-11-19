@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tyra-ochieng" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+</a><br>
 <a href="https://tyra-portfolio.framer.website/">My portfolio</a>
 </p>
 
