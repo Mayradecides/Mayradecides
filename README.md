@@ -16,7 +16,7 @@
 
 ### 🕹️ Game Developer Status
 <p align="left">
-  <code>Loading game dev skills... [▓▓▓▓▓░░░░░] 50%</code>
+  <code>Loading game dev skills... [▓░░░░] 10%</code>
 </p>
 
 ---
@@ -26,6 +26,7 @@
 <a href="https://linkedin.com/in/tyra-ochieng" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://tyra-portfolio.framer.website/">My portfolio</a>
 </p>
 
 ### 🛠️ Languages and Tools
